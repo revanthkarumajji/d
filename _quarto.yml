@@ -9,6 +9,8 @@ website:
         text: Home
       - Skills.qmd
       - Projects.qmd
+      - midproject.qmd
+      - code.qmd
 
 format:
   html:
