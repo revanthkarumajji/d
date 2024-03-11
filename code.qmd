@@ -3,7 +3,6 @@ title: "code"
 ---
 
 ---
-title: "Mid Project"
 author: "Revanth Karumajji"
 date: "2024-03-11"
 output:

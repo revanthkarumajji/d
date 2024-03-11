@@ -34,6 +34,8 @@ I've redesigned the graph to fix the above mentioned issues and even made it int
 
 Here is the link to the video where I discussed my project in detail:
 
+<https://drive.google.com/file/d/1BhBhi49CbLiInUzvxdm_oG2jzcMxk0kU/view?usp=sharing>
+
 Reference for the Bad Graph:
 
 \[Funding of a broadcast company in two financial years \](<https://cbc.radio-canada.ca/en/impact-and-accountability/finance/annual-reports/ar-2018-2019/financial-sustainability/revenue-and-other-funds>)
