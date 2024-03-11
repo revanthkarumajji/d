@@ -1,5 +1,5 @@
 ---
-title: "Mid Project"
+title: "Mid Project(GROUP 11)"
 ---
 
 # Redesigning of a Bad Graph Using R
